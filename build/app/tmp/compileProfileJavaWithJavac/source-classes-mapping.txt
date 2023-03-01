@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/audio_service_sksl_test/BuildConfig.java
+ com.example.audio_service_sksl_test.BuildConfig
